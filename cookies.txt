@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.deriv.com	TRUE	/	FALSE	1999999999	__cf_bm	iwkUNAJq6sPdtCRiGPBo9Kq7JxU0Hz0Vn_.fL.bf0_w-1690985610-0-AUQLCLaE8fzaA2ocLHkA9aWOaA/EI4iRt6r1ocnX3tBP8Qgf3L0019/Hu+XgcMdf2MwD5vkacmKxH89m5hWyE/o=
+deriv.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:13:31	151/151	---MCZ	200	added ('OK')	text/plain	etag:W/%22e1cdda8551ee061a6e938b38214832e4%22	https://deriv.com/robots.txt		(from )
+16:13:31	254184/254184	---MCZ	200	added ('OK')	text/html	date:Wed,%2002%20Aug%202023%2014:13:30%20GMT	https://deriv.com/	C:/Users/Nadia/Desktop/deriv/deriv.com/index.html	(from )
